@@ -19,6 +19,7 @@ Resolução de Exercícios - Curso JavaScript - Rocketseat STARTER
 
 - ### [HTML](https://www.w3schools.com/html/default.asp)
 - ### [JavaScript](https://www.w3schools.com/js/default.asp)
+- ### [Axios](https://www.npmjs.com/package/axios)
 ---
 ## 🔽Como Baixar O Projeto ?
 
@@ -33,7 +34,7 @@ Resolução de Exercícios - Curso JavaScript - Rocketseat STARTER
 ```
 ---
 <h1 align ="center">
-<a href="http://linkedin.com/in/valter-guilherme-reis-de-oliveira-santos-44a7851a0"> Acessar Meu LinkedIn </a>
+<a href="http://linkedin.com/in/vgrosdeveloper"> Acessar Meu LinkedIn </a>
 </h1>
 
 ---
